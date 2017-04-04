@@ -1,0 +1,7 @@
+#include <studio.h>
+#include <stdlib.H>
+int main(){
+  printf("Hello World!\n);  
+  system("pause");
+  return 0;
+}
